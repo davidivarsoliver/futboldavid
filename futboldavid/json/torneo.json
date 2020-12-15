@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Barcelona FC",
+        "field": "Camp Nou",
+        "league": "LaLiga",
+        "photo": "./img/escudos/barcelona.png",
+        "position": "1",
+        "wins": "9",
+        "loses": "3",
+        "ties": "1"
+    },
+    {
+        "id": 2,
+        "name": "Tottenham",
+        "field": "Tottenham Hotspur Stadium",
+        "league": "Premier League",
+        "photo": "./img/escudos/tot.png",
+        "position": "2",
+        "wins": "8",
+        "loses": "2",
+        "ties": "2"
+    },
+    {
+        "id": 3,
+        "name": "Manchester City",
+        "field": "Estadio Ciudad de Mánchester",
+        "league": "Premier League",
+        "photo": "./img/escudos/mancity.png",
+        "position": "3",
+        "wins": "8",
+        "loses": "3",
+        "ties": "2"
+    },
+    {
+        "id": 4,
+        "name": "Dortmund",
+        "field": "Signal Iduna Park",
+        "league": "Bundesliga",
+        "photo": "./img/escudos/dortmund.png",
+        "position": "4",
+        "wins": "7",
+        "loses": "3",
+        "ties": "5"
+    },
+    {
+        "id": 5,
+        "name": "Juventus",
+        "field": "Juventus Stadium",
+        "league": "SerieA",
+        "photo": "./img/escudos/juventus.png",
+        "position": "5",
+        "wins": "6",
+        "loses": "3",
+        "ties": "3"
+    },
+    {
+        "id": 6,
+        "name": "PSG",
+        "field": "Le Parc des Princes",
+        "league": "Ligue1",
+        "photo": "./img/escudos/psg.png",
+        "position": "6",
+        "wins": "5",
+        "loses": "2",
+        "ties": "1"
+    },
+    {
+        "id": 7,
+        "name": "Liverpool",
+        "field": "Anfield",
+        "league": "Premier League",
+        "photo": "./img/escudos/liverpool.png",
+        "position": "7",
+        "wins": "4",
+        "loses": "2",
+        "ties": "2"
+    },
+    {
+        "id": 8,
+        "name": "Real Madrid",
+        "field": "Estadio Santiago Bernabéu",
+        "league": "LaLiga",
+        "photo": "./img/escudos/realmadrid.png",
+        "position": "8",
+        "wins": "3",
+        "loses": "6",
+        "ties": "3"
+    }
+]
